@@ -74,6 +74,9 @@ public class MainActivity extends FragmentActivity {
                 FragmentTransaction transaction = activity.getSupportFragmentManager().beginTransaction();
                 transaction.remove(splashFragment);
                 transaction.commit();
+                String a="a";
+                String test="can i fuck you?";
+                String test1="aaaaa";
             }
         }
     }
