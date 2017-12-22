@@ -74,6 +74,7 @@ public class MainActivity extends FragmentActivity {
                 FragmentTransaction transaction = activity.getSupportFragmentManager().beginTransaction();
                 transaction.remove(splashFragment);
                 transaction.commit();
+                //master
             }
         }
     }
