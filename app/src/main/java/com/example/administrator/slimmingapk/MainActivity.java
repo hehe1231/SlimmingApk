@@ -82,6 +82,9 @@ public class MainActivity extends FragmentActivity {
                 String aaaaa = "aaaaaaaa";
 
 
+                String aaaaaaaa = "hehehe";
+
+
                 //rrrrrrrrrrrrrrrrrr
             }
         }
