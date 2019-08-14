@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SlimmingApk.iml" filepath="$PROJECT_DIR$/SlimmingApk.iml" />
+      <module fileurl="file://D:\asWorkSpace\SlimmingApk\SlimmingApk.iml" filepath="D:\asWorkSpace\SlimmingApk\SlimmingApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\asWorkSpace\SlimmingApk\app\app.iml" filepath="D:\asWorkSpace\SlimmingApk\app\app.iml" />
     </modules>
   </component>
 </project>
